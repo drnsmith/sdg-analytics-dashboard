@@ -109,6 +109,8 @@ sdg-analytics-dashboard/
 
 ---
 
-## Author
+---
 
-Dr Natalya Smith — [github.com/drnsmith](https://github.com/drnsmith) · [medium.com/@NeverOblivious](https://medium.com/@NeverOblivious)
+## License
+
+MIT — see [LICENSE](LICENSE).
