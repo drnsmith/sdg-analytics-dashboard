@@ -1,6 +1,6 @@
-# SDG Progress Analytics Dashboard
+# The Sustainable Development Goals Progress Analytics Dashboard
 
-**Live demo:** https://drnsmith-sdg-analytics-dashboard.hf.space
+**Live demo:** [https://drnsmith-sdg-analytics-dashboard.hf.space](https://huggingface.co/spaces/drnsmith/sdg-analytics-dashboard)
 
 ---
 
